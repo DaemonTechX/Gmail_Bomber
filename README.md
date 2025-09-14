@@ -31,6 +31,19 @@ pkg install python-pip
 pkg install git
 git clone https://github.com/DaemonTechX/Gmail_Bomber
 cd Gmail_Bomber
+ls
 pip install requests
 python gmail_bomber.py
 ```
+Jika Mengalami Error, Silahkan Clone Ulang Repository Ini Dengan Command Ini
+```bash
+cd $HOME
+rm -rf Gmail_Bomber
+git clone https://github.com/DaemonTechX/Gmail_Bomber
+cd Gmail_Bomber
+ls
+python gmail_bomber.py
+```
+
+*Terimakasih Telah Mampir Di Repository Gmail Bomber Ini🤗🙏. Semoga Kamu Suka Dengan Script Ini, Jangan Lupa Kasih Star Ya Hehe🙏*
+> _Byexe | 2025 - 09 - 14_
