@@ -2,6 +2,8 @@
 
 **Gmail bomber adalah sebuah alat atau skrip yang dirancang untuk mengirim banyak email secara berulang-ulang ke satu alamat Gmail (atau beberapa alamat) dalam waktu singkat. Tujuannya biasanya untuk membanjiri kotak masuk penerima sehingga membuat email penting tertutup, mengganggu operasi, atau memaksa layanan menjadi tidak nyaman/terganggu.**
 
+![Screenshot Dalam Tool](https://github.com/username/repo/blob/main/assets/screenshot.png?raw=true)
+
 # PERSYARATAN
 - library requests
 - Alamat Gmail (Sender)
